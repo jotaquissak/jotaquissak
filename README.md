@@ -2,6 +2,10 @@
   👋 Hi there, I'm Jose Quissak, I'm from <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png" width="15"/> <b>Rio de Janeiro, Rio de Janeiro, Brazil</b>.<br>Welcome to my Github profile, I'm a Computer Science student degree.
 </p>
 
+<p align="center"><br>
+  <a href="https://github.com/jotaquissak/jotaquissak/blob/main/README.pt-bt.md">In Portuguese ➤</a>
+</p>
+
 <div align="center"><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaquissak&layout=compact&langs_count=7&theme=dark"/>
 </div>
