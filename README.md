@@ -1,5 +1,5 @@
 <p align="center">
-  👋 Hi there, I'm Jose Quissak, I'm from <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png" width="15"/> <b>Rio de Janeiro, Rio de Janeiro, Brazil</b>.<br>Welcome to my Github profile, I'm a Computer Science student degree.
+  👋 Hi there, I'm Jose Quissak, I'm from <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Brazil_flag_300.png" width="15"/> <b>Rio de Janeiro, Rio de Janeiro, Brazil</b>.<br>Welcome to my Github profile, I’m Studying for a Computer Science Major.
 </p>
 
 <p align="center"><br>
